@@ -15,6 +15,9 @@
 -- select 1 AS one; -- Piyasa standardına uygun değildir.
 -- SELECT 2 AS TWO;
 
+
+
+
 -- * Piyasa Standartları:
 -- * * SQL Temel komutları BÜYÜK harfle yazılır. SELECT * FROM Album WHERE AlbumID=1;
 -- * * String verilerde tek-çift tırnak kullanabilirsiniz. Standart olan tek tırnaktır.  SELECT 'string' AS yazi;
