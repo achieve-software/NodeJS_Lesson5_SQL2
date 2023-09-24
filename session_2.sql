@@ -5,6 +5,8 @@
 	Comment
 */
 
+
+
 -- SELECT 1 AS one -- Tek block işlemler için noktalı-virgül zorunlu değildir.
 
 -- SELECT 1 AS one; -- Bundan sonrası yorumdur. SELECT 2 AS one;
